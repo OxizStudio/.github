@@ -32,11 +32,13 @@ Oxiz Studio est une agence de développement digital basée à **Andenne, en Bel
 ## 🛠️ Stack technique
 
  ⁠
-Frontend     →  Vue.js · React · Next.js · TailwindCSS
-Backend      →  Laravel · Node.js · PHP · Python
-Mobile       →  React Native · Capacitor
-Base de données →  PostgreSQL · MySQL · MongoDB
-IA & Outils  →  OpenAI · LangChain · n8n · Docker · Git
+| | Technologie |
+|---|---|
+| **Frontend** | Vue.js · React · Next.js · TailwindCSS |
+| **Backend** | Laravel · Node.js · PHP · Python |
+| **Mobile** | React Native · Capacitor |
+| **Base de données** | PostgreSQL · MySQL · MongoDB |
+| **IA & Outils** | OpenAI · LangChain · n8n · Docker · Git |
 
 
 ## 📊 En chiffres
