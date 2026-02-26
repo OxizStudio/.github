@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://oxiz.be/favicon.ico" width="80" />
+<img src="https://oxiz.be/_next/image?url=%2Foxiz.png&w=96&q=75" width="80" />
 
 # Oxiz Studio
 
