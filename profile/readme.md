@@ -1,21 +1,75 @@
+<div align="center">
+
+<img src="https://oxiz.be/favicon.ico" width="80" />
+
 # Oxiz Studio
-Hébergeur WEB / Gaming et autre...
 
-![Logo](https://cdn.discordapp.com/attachments/563003073274839042/1167371594369351720/Oxizbanner-removebg-preview.png?ex=654de284&is=653b6d84&hm=077d2f2320b949fb5867595411c68ac4f4489b35aa94d3fb8682887f004cbbc8&)
+**Développement Web · Apps Mobiles · Intelligence Artificielle**
 
-## Références couleurs
+[![Website](https://img.shields.io/badge/oxiz.be-5C5CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oxiz.be)
+[![Location](https://img.shields.io/badge/Andenne,_Belgique_🇧🇪-333?style=for-the-badge)](https://oxiz.be)
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Rouge Clair | ![#DF2F2F](https://via.placeholder.com/10/DF2F2F?text=+) #DF2F2F |
-| Rouge Foncé | ![#BF1C1C](https://via.placeholder.com/10/BF1C1C?text=+) #BF1C1C |
+---
+
+*Solutions digitales sur-mesure, de l'idée au déploiement.*
+
+</div>
+
+## 🧑‍💻 Qui sommes-nous ?
+
+Oxiz Studio est une agence de développement digital basée à **Andenne, en Belgique**. Nous concevons des solutions **100% sur-mesure** — pas de templates, pas de compromis. Chaque ligne de code est écrite pour répondre précisément à votre besoin.
+
+## 🚀 Nos services
+
+| | Service | Description |
+|---|---|---|
+| 🌐 | **Développement Web** | Sites vitrines, plateformes, dashboards, SaaS |
+| 📱 | **Apps Mobiles** | Applications iOS & Android cross-platform |
+| 🤖 | **Intelligence Artificielle** | Chatbots, agents IA, automatisation intelligente |
+| ⚡ | **APIs & Intégrations** | Connexion de systèmes, workflows automatisés |
+| 🎨 | **UX/UI Design** | Interfaces modernes, intuitives et performantes |
+
+## 🛠️ Stack technique
+
+ ⁠
+Frontend     →  Vue.js · React · Next.js · TailwindCSS
+Backend      →  Laravel · Node.js · PHP · Python
+Mobile       →  React Native · Capacitor
+Base de données →  PostgreSQL · MySQL · MongoDB
+IA & Outils  →  OpenAI · LangChain · n8n · Docker · Git
 
 
-## Website
-[![portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oxiz.be/)
+## 📊 En chiffres
 
-![App Screenshot](https://cdn.discordapp.com/attachments/563003073274839042/1167105241162973205/image.png?ex=654cea75&is=653a7575&hm=b3f6cac4c345e0567c82a4fc2ec1f25a28e4a910ee31cbb1e26ed8689d3f857e&)
+<div align="center">
 
-## Support
+| 10+ | 3+ | 100% |
+|:---:|:---:|:---:|
+| Clients satisfaits | Années d'expertise | Code sur-mesure |
 
-Pour le support, email support@oxiz.be.
+</div>
+
+## 💼 Comment on travaille
+
+
+1.⁠ ⁠💬  Discussion — On écoute votre besoin
+2.⁠ ⁠📋  Devis — Proposition claire et détaillée
+3.⁠ ⁠🔨  Développement — Sprints avec suivi régulier
+4.⁠ ⁠🚀  Livraison — Déploiement et formation
+5.⁠ ⁠🛡️  Garantie — 3 mois de support post-livraison
+
+
+## 📬 Contact
+
+Envie de discuter d'un projet ? On est là.
+
+🌐 [oxiz.be](https://oxiz.be) · 📍 Andenne, Belgique 🇧🇪
+
+---
+
+<div align="center">
+
+**Fait avec ❤️ en Belgique**
+
+</div>
+
