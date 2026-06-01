@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://oxiz.be/banner.png" width="80" />
-
-# Oxiz Studio
+<img src="https://oxiz.be/banner.png" width="800" />
 
 **Développement Web · Apps Mobiles · Intelligence Artificielle**
 
