@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://oxiz.be/banner.png" width="800" />
+<img src="https://oxiz.be/banner.png" width="500" />
 
-**Développement Web · Apps Mobiles · Intelligence Artificielle**
+# **Développement Web · Apps Mobiles · Intelligence Artificielle**
 
 [![Website](https://img.shields.io/badge/oxiz.be-5C5CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oxiz.be)
 [![Location](https://img.shields.io/badge/Andenne,_Belgique_🇧🇪-333?style=for-the-badge)](https://oxiz.be)
