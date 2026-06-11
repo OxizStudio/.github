@@ -1,75 +1,86 @@
 <div align="center">
 
-<img src="https://oxiz.be/banner.png" width="500" />
+<img src="https://oxiz.be/og-image.png" alt="Oxiz Studio" width="640" />
 
-# **Développement Web · Apps Mobiles · Intelligence Artificielle**
+# Oxiz Studio
 
-[![Website](https://img.shields.io/badge/oxiz.be-5C5CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oxiz.be)
-[![Location](https://img.shields.io/badge/Andenne,_Belgique_🇧🇪-333?style=for-the-badge)](https://oxiz.be)
+### Agence digitale en Wallonie 🇧🇪
 
----
+**Développement web · mobile · IA · automatisation**
 
-*Solutions digitales sur-mesure, de l'idée au déploiement.*
+Nous accompagnons les **communes wallonnes**, les **indépendants** et les **PME**
+dans leur transformation numérique.
+*Sans jargon, avec des résultats.*
+
+[![Site web](https://img.shields.io/badge/oxiz.be-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oxiz.be)
+[![Email](https://img.shields.io/badge/info@oxiz.be-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@oxiz.be)
+[![Andenne](https://img.shields.io/badge/Andenne-Belgique-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](https://oxiz.be)
 
 </div>
 
-## 🧑‍💻 Qui sommes-nous ?
+---
 
-Oxiz Studio est une agence de développement digital basée à **Andenne, en Belgique**. Nous concevons des solutions **100% sur-mesure** — pas de templates, pas de compromis. Chaque ligne de code est écrite pour répondre précisément à votre besoin.
+## 🧭 Notre approche
 
-## 🚀 Nos services
+Chez Oxiz Studio, on commence toujours par **comprendre le besoin réel** avant de coder.
+Pas de complexité inutile : des solutions digitales **utiles, concrètes et sur mesure**,
+construites étape par étape, en partenaire de proximité.
 
-| | Service | Description |
-|---|---|---|
-| 🌐 | **Développement Web** | Sites vitrines, plateformes, dashboards, SaaS |
-| 📱 | **Apps Mobiles** | Applications iOS & Android cross-platform |
-| 🤖 | **Intelligence Artificielle** | Chatbots, agents IA, automatisation intelligente |
-| ⚡ | **APIs & Intégrations** | Connexion de systèmes, workflows automatisés |
-| 🎨 | **UX/UI Design** | Interfaces modernes, intuitives et performantes |
+> Comprendre · Concevoir · Livrer — et accompagner dans la durée.
 
-## 🛠️ Stack technique
+---
 
- ⁠
-| | Technologie |
+## 🛠️ Ce que nous faisons
+
+| | Service |
 |---|---|
-| **Frontend** | Vue.js · React · Next.js · TailwindCSS |
-| **Backend** | Laravel · Node.js · PHP · Python |
-| **Mobile** | React Native · Capacitor |
-| **Base de données** | PostgreSQL · MySQL · MongoDB |
-| **IA & Outils** | OpenAI · LangChain · n8n · Docker · Git |
+| 🌐 | **Sites web sur mesure** — vitrines, applications métiers, plateformes |
+| 📱 | **Applications mobiles** — iOS & Android, natives ou cross-platform |
+| 🤖 | **Intégration IA** — assistants, automatisation intelligente, traitement de données |
+| ⚙️ | **Automatisation** — workflows, intégrations d'API, gains de temps au quotidien |
+| 🏛️ | **Solutions pour le secteur public** — outils pensés pour les communes wallonnes |
 
+---
 
-## 📊 En chiffres
+## 🚀 Nos produits
 
-<div align="center">
+- **OxizScreen** — Affichage dynamique en mode SaaS. Un boîtier plug & play en HDMI,
+  une plateforme web centralisée pour piloter tous vos écrans. Pensé pour les clubs
+  sportifs, l'HoReCa, les communes et les écoles.
+- **Oxiz Cashless** — Solution de paiement sans contact (NFC) pour événements et points de vente.
+- **DigiScan** — Audit de conformité et de maturité numérique à destination des communes.
 
-| 10+ | 3+ | 100% |
-|:---:|:---:|:---:|
-| Clients satisfaits | Années d'expertise | Code sur-mesure |
+---
 
-</div>
+## ⚙️ Stack technique
 
-## 💼 Comment on travaille
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
 
-1.⁠ ⁠💬  Discussion — On écoute votre besoin
-2.⁠ ⁠📋  Devis — Proposition claire et détaillée
-3.⁠ ⁠🔨  Développement — Sprints avec suivi régulier
-4.⁠ ⁠🚀  Livraison — Déploiement et formation
-5.⁠ ⁠🛡️  Garantie — 3 mois de support post-livraison
+## 📫 Nous contacter
 
-
-## 📬 Contact
-
-Envie de discuter d'un projet ? On est là.
-
-🌐 [oxiz.be](https://oxiz.be) · 📍 Andenne, Belgique 🇧🇪
+- 🌐 **Site web** — [oxiz.be](https://oxiz.be)
+- ✉️ **Email** — [info@oxiz.be](mailto:info@oxiz.be)
+- 📞 **Téléphone** — +32 470 28 75 82
+- 📍 **Adresse** — Rue de Velaine 162, 5300 Andenne, Belgique
 
 ---
 
 <div align="center">
 
-**Fait avec ❤️ en Belgique**
+*Oxiz Studio — Société en commandite · BCE BE 1034.509.057*
+
+**Votre projet digital mérite un partenaire de proximité.**
 
 </div>
-
