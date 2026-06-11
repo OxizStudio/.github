@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://oxiz.be/og-image.png" alt="Oxiz Studio" width="640" />
+<img src="https://oxiz.be/banner.png" alt="Oxiz Studio" width="640" />
 
 # Oxiz Studio
 
