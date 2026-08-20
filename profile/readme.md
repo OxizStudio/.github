@@ -72,7 +72,7 @@ construites étape par étape, en partenaire de proximité.
 
 - 🌐 **Site web** — [oxiz.be](https://oxiz.be)
 - ✉️ **Email** — [info@oxiz.be](mailto:info@oxiz.be)
-- 📞 **Téléphone** — +32 470 28 75 82
+- 📞 **Téléphone** — +32 87 55 30
 - 📍 **Adresse** — Rue de Velaine 162, 5300 Andenne, Belgique
 
 ---
