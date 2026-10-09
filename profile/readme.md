@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://oxiz.be/banner.png" alt="Oxiz Studio" width="640" />
-
 # Oxiz Studio
 
 ### Agence digitale en Wallonie 🇧🇪
